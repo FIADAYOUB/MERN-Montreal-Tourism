@@ -14,14 +14,20 @@ PORT=5000
   Start both : 
 
   cd mern/backend
+	
   npm run dev
 
 
   Start server:
+	
   cd mern/backend
+	
   npm install
+	
   npm start
 
   cd mern/client
+	
   npm install
+	
   npm start
