@@ -31,3 +31,8 @@ PORT=5000
   npm install
 	
   npm start
+	
+
+![cp1](https://user-images.githubusercontent.com/51288525/150846796-67f68b27-6bba-4dce-9669-4c99f3107fc1.png)
+![cp2](https://user-images.githubusercontent.com/51288525/150846833-51f5cf65-c18e-4f3c-b8a9-23fb678b6c1d.png)
+![cp3](https://user-images.githubusercontent.com/51288525/150846850-0cee72be-816a-4e90-8fc2-4c2302cb459e.png)
